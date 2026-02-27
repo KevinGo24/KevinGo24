@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**KevinGo24/KevinGo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm kevin and from barranquilla city and yeras old 23, and studies programing sotfware, analitic and developer sotfware and attention and service clientes, and the studies SENA
+i'm a future System enginer,developer web and with frameworks as React.js, Angulkar.js and C# .net core framewors
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... i'm working python & repository
+- 🌱 I’m currently learning ... python & inglish
+- 👯 I’m looking to collaborate on ... developer web
+- 🤔 I’m looking for help with ...IA and tutorial
+- 💬 Ask me about ...Diseño 
+- 📫 How to reach me: ...3**********
+- 😄 Pronouns: ...Kevingo
+- ⚡ Fun fact: ...autism level 1
 -->
+![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")

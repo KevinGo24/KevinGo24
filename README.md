@@ -12,4 +12,7 @@ i'm a future System enginer,developer web and with frameworks as React.js, Angul
 - 😄 Pronouns: ...Kevingo
 - ⚡ Fun fact: ...autism level 1
 -->
-![image alt]((https://github.com/KevinGo24/KevinGo24/blob/eaab4a8967dc3afc6f7a75cb20a76536bac545e8/js.png)")
+
+![htmnl](https://github.com/user-attachments/assets/a2aaaab4-822f-4801-a9c4-1f6156c31930)
+<img width="3840" height="2160" alt="CSS-Logo" src="https://github.com/user-attachments/assets/844292d8-380a-4eb3-9da2-f2f60fc7a4f7" />
+<img width="920" height="450" alt="js" src="https://github.com/user-attachments/assets/b8e420ca-66c0-45d1-9eb3-14eb04aaadc3" />

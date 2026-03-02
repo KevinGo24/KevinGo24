@@ -12,4 +12,4 @@ i'm a future System enginer,developer web and with frameworks as React.js, Angul
 - 😄 Pronouns: ...Kevingo
 - ⚡ Fun fact: ...autism level 1
 -->
-![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
+![C#.](/image/Markdown-mark.svg "This is a sample image.")

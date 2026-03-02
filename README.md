@@ -13,5 +13,6 @@ i'm a future System enginer,developer web and with frameworks as React.js, Angul
 - ⚡ Fun fact: ...autism level 1
 -->
 <img width="316" height="159" alt="index" src="https://github.com/user-attachments/assets/0d1191ad-f1d3-4079-b4d4-18458be0a584" />
-<img width="920" height="450" alt="js" src="https://github.com/user-attachments/assets/b8e420ca-66c0-45d1-9eb3-14eb04aaadc3" />
+
 <img width="1366" height="768" alt="git" src="https://github.com/user-attachments/assets/434b2361-8647-41d7-af46-d8da5874d830" />
+<img width="225" height="225" alt="C#" src="https://github.com/user-attachments/assets/8944fc3f-d9ec-4528-a7f5-2124950846d4" />

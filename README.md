@@ -12,7 +12,7 @@ i'm a future System enginer,developer web and with frameworks as React.js, Angul
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...autism level 1
 -->
-<img width="100" height="300" alt="index" src="https://github.com/user-attachments/assets/0d1191ad-f1d3-4079-b4d4-18458be0a584" />
+<img width="300" height="300" alt="index" src="https://github.com/user-attachments/assets/0d1191ad-f1d3-4079-b4d4-18458be0a584" />
 
-<img width="100" height="300" style="border-radius:20" alt="git" src="https://github.com/user-attachments/assets/434b2361-8647-41d7-af46-d8da5874d830" />
-<img width="100" height="300" border-radius="10" alt="C#" src="https://github.com/user-attachments/assets/8944fc3f-d9ec-4528-a7f5-2124950846d4" />
+<img width="300" height="300" style="border-radius:20" alt="git" src="https://github.com/user-attachments/assets/434b2361-8647-41d7-af46-d8da5874d830" />
+<img width="300" height="300" border-radius="10" alt="C#" src="https://github.com/user-attachments/assets/8944fc3f-d9ec-4528-a7f5-2124950846d4" />

@@ -30,6 +30,3 @@ Thank you for your time.
 <img width="300" height="300" border-radius="10" displey:flex gap:20px  alt="images" src="https://github.com/user-attachments/assets/f8dd4524-4045-4e78-a951-12c9d9cd2907" />
 <img width="300" height="300" border-radius="10" displey:flex gap:20px  alt="images" src="https://github.com/user-attachments/assets/c2b09d57-0fae-41a9-8051-248a2ca2df02" />
 
-## Website
-
-kevingo24.github.io/My_website/

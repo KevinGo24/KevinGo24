@@ -22,6 +22,8 @@ Thank you for your time.
 - ⚡ Fun fact: ...autism level 1
 -->
 ## Picture technology
+
+###  HTML CSS JS
 <img width="300" height="300" border-radius:10 displey:flex  gap:20px alt="index" src="https://github.com/user-attachments/assets/0d1191ad-f1d3-4079-b4d4-18458be0a584" />
 
 <img width="300" height="300" border-radius:10 displey:flex gap:20px alt="git" src="https://github.com/user-attachments/assets/434b2361-8647-41d7-af46-d8da5874d830" />
